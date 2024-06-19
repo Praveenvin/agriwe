@@ -7,19 +7,36 @@ body {
   /* fonts */
   --font-inika: Inika;
   --font-inter: Inter;
+  --font-libre-baskerville: "Libre Baskerville";
+  --font-libre-caslon-text: "Libre Caslon Text";
 
   /* font sizes */
   --font-size-16xl: 35px;
   --font-size-2xl: 21px;
   --font-size-9xl: 28px;
   --font-size-8xl: 27px;
+  --font-size-6xl: 25px;
+  --font-size-xl: 20px;
 
   /* Colors */
   --color-white: #fff;
+  --color-black: #000;
+  --color-lightgreen: #a8ed97;
+  --color-pink: #ffc4c4;
+  --color-darkgreen: #1e5709;
 
   /* Gaps */
   --gap-base: 16px;
 
   /* Paddings */
   --padding-xl: 20px;
+  --padding-4xs: 9px;
+  --padding-xs: 12px;
+  --padding-10xl: 29px;
+  --padding-mini: 15px;
+  --padding-14xl: 33px;
+
+  /* Border radiuses */
+  --br-15xl: 34px;
+  --br-6xl: 25px;
 }
